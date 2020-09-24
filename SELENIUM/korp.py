@@ -7,6 +7,7 @@ from selenium.webdriver.support.ui import Select
 import time
 import glob
 import io
+import os
 
 
 def open_browser(link, download_folder):
